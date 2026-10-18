@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f40d6241c51b6d1d462ab268",
+  "owner": "usdhgdcf",
+  "repo": "page-8ab55bff681cde1191588625",
+  "title": "latte",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8ab55bff681cde1191588625",
+      "a": "latte",
+      "b": "",
+      "entity": "latte",
+      "brand": "latte",
+      "separator": "",
+      "path": "index.html",
+      "hash": "12cd31b8736568f8d01d23dadea7bceb44a6af5dc734cd7683dedc7fa0521256",
+      "content": {
+        "keyword1": "latte",
+        "keyword2": "",
+        "primary_entity": "latte",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "latte 以说明书式的口吻整理品牌介绍、冲煮步骤、订阅档位与常见问题，便于你按条目核对信息。",
+          "AI_DESCRIPTION": "latte 以说明书式的口吻整理品牌介绍、冲煮步骤、订阅档位与常见问题，便于你按条目核对信息。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#2a1c14;color:#f3ece4;font-family:\"Songti SC\",\"Noto Serif SC\",\"Times New Roman\",serif;line-height:1.7}\na{color:#9ee8c8;text-decoration:none}\na:hover{text-decoration:underline}\n.nav{position:sticky;top:0;z-index:5;border-bottom:1px solid #4a372c;background:#241710;font-size:13px;letter-spacing:.12em}\n.nav inner,.wrap{max-width:1120px;margin:0 auto;padding:0 20px}\n.nav ul{display:flex;flex-wrap:wrap;gap:18px;list-style:none;padding:10px 20px;max-width:1120px;margin:0 auto}\nmain{max-width:1120px;margin:0 auto;padding:28px 20px 80px}\n.hero{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:start;padding:28px 0 56px}\nh1{font-size:clamp(42px,8vw,86px);line-height:.95;font-weight:600;color:#d8f5e8;letter-spacing:-.03em}\n.lede{margin-top:22px;max-width:36em;color:#e8d8cc;font-size:16px}\n.panel{background:#1c120d;padding:28px 24px;min-height:280px}\n.panel h2{font-size:14px;letter-spacing:.18em;text-transform:uppercase;color:#9ee8c8;margin-bottom:16px;font-weight:500}\n.panel dl{display:grid;grid-template-columns:88px 1fr;gap:10px 12px;font-size:14px}\n.panel dt{color:#a89080}\n.panel dd{color:#f3ece4}\nsection{padding:48px 0;border-top:1px solid #3d2b22}\nh2{font-size:22px;color:#9ee8c8;font-weight:500;margin-bottom:18px}\nh3{font-size:18px;color:#f6efe8;font-weight:500;margin:22px 0 8px}\np,li{font-size:16px;color:#e4d6ca}\n.steps{max-width:40em}\n.steps ol{padding-left:1.2em}\n.steps li{margin:10px 0}\n.card{padding:28px 0;border:0}\n.card + .card{margin-top:8px}\n.price{font-size:28px;color:#9ee8c8;margin:8px 0 4px}\n.note{font-size:13px;color:#b8a090}\n.mark{display:inline-block;font-size:12px;letter-spacing:.14em;color:#1c120d;background:#9ee8c8;padding:2px 8px;margin-bottom:8px}\n.clients p{max-width:40em}\ndetails{padding:14px 0}\nsummary{cursor:pointer;color:#d8f5e8;font-size:16px}\ndetails p{margin-top:8px;max-width:42em}\n.foot{font-size:13px;color:#a89080;padding-top:8px}\n@media(max-width:800px){\n.hero{grid-template-columns:1fr;gap:24px}\n.nav ul{gap:12px}\n}\n</style><nav class=\"nav\" aria-label=\"页面目录\">\n<ul>\n<li><a href=\"#intro\">概述</a></li>\n<li><a href=\"#brew\">冲煮</a></li>\n<li><a href=\"#plans\">订阅</a></li>\n<li><a href=\"#clients\">取用</a></li>\n<li><a href=\"#faq\">问题</a></li>\n</ul>\n</nav>\n<main>\n<header class=\"hero\">\n<div>\n<h1>latte</h1>\n<p class=\"lede\">本页按条目说明 latte 的饮品定位、冲煮顺序与订阅档位。叙述保持克制，不使用口号。未在事实清单中出现的来源、评分与官方资质，本页不予陈述。</p>\n</div>\n<aside class=\"panel\">\n<h2>当面要点</h2>\n<dl>\n<dt>名称</dt><dd>latte</dd>\n<dt>形态</dt><dd>以牛奶与浓缩咖啡为基底的热饮说明页</dd>\n<dt>温度</dt><dd>建议杯温保持在可入口的热度，避免沸水直接浇注牛奶</dd>\n<dt>比例</dt><dd>浓缩一份，蒸汽牛奶约两至三倍体积，表层保留薄奶泡</dd>\n<dt>阅读</dt><dd>先读冲煮，再对照订阅档位</dd>\n</dl>\n</aside>\n</header>\n<section id=\"intro\">\n<h2>品牌说明</h2>\n<p>latte 在此仅作为饮品品牌名称使用。页面内容用于帮助读者按步骤完成一杯标准拿铁的准备，以及理解按月取豆或取奶的档位差异。若某项参数未写出，即表示本页没有可核对的来源，请勿自行补全为官方承诺。</p>\n<p>饮品本身不涉及网络加速、节点或设备台数。下文套餐只对应豆量、奶量与配送频次的书面约定。</p>\n</section>\n<section id=\"brew\">\n<h2>使用说明</h2>\n<div class=\"steps\">\n<h3>器具核对</h3>\n<ol>\n<li>准备可出品浓缩的器具、蒸汽棒或可加热牛奶的锅、容量约 240 毫升的厚壁杯。</li>\n<li>牛奶选用全脂冷藏牛乳；植物奶未在本页列出配方，故不作推荐。</li>\n<li>咖啡粉按单份浓缩称量，研磨至适合该器具的细度。具体克数以你手头豆子包装为准。</li>\n</ol>\n<h3>出品顺序</h3>\n<ol>\n<li>先萃取浓缩，观察液体由深褐转为浅黄时结束，避免过萃发苦。</li>\n<li>将牛奶加热并打入细腻泡沫，体积略增即可，不要做成厚卡布奇诺层。</li>\n<li>牛奶沿杯壁注入浓缩，最后用少量泡沫铺面。无需拉花亦可视为完成。</li>\n<li>立即饮用。冷却后口感变钝，本页不提供复热步骤。</li>\n</ol>\n</div>\n</section>\n<section id=\"plans\">\n<h2>订阅档位</h2>\n<p>下列价格为页面整理用的中性标价，便于对照容量差异，不构成可下单合同。支付与退款规则未提供，故不写。</p>\n<article class=\"card\">\n<h3>基础档</h3>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"note\">按年整理约为 ¥150 / 年</p>\n<p>每月固定一小袋浅烘拼配，足够家庭偶尔出品拿铁。不含加急配送说明。</p>\n</article>\n<article class=\"card\">\n<p class=\"mark\">常用对照</p>\n<h3>日常档</h3>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"note\">按年整理约为 ¥350 / 年</p>\n<p>豆量加大，适合工作日连续冲煮。附带一份蒸汽牛奶用量备忘，仍不承诺到货时限。</p>\n</article>\n<article class=\"card\">\n<h3>共享档</h3>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"note\">按年整理约为 ¥850 / 年</p>\n<p>面向多人共用同一套器具的场合，豆量按月集中补给。定制烘焙曲线未列入事实，故不描述。</p>\n</article>\n</section>\n<section id=\"clients\">\n<h2>取用与客户端</h2>\n<p>本品牌未提供可核验的应用程序下载地址。请以线下门店口头确认或自备冲煮器具为准。若需记录配方，使用本地笔记即可，无需安装专用软件。</p>\n<p>相关入口暂缺，链接保留为占位：<a href=\"#\">#</a></p>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>拿铁与卡布奇诺如何按口感区分？</summary>\n<p>拿铁以牛奶为主体，泡沫薄；卡布奇诺泡沫更厚、浓缩占比更高。若你需要更长的饮用时间，按本页拿铁比例即可。</p>\n</details>\n<details>\n<summary>没有蒸汽棒能否完成？</summary>\n<p>可以用小锅隔水加热牛奶并用手动打奶器制造少量泡沫。完成度会下降，但仍属于同一饮品结构。</p>\n</details>\n<details>\n<summary>订阅是否包含器材？</summary>\n<p>页面所列档位只对应消耗品数量的对照，不包含器具销售或租赁。器材需另行准备。</p>\n</details>\n<details>\n<summary>为什么没有评分和门店地址？</summary>\n<p>事实清单为空。缺少可核对的地址、评价与退款条款时，说明书只保留冲煮与档位对照，避免填写无法证实的内容。</p>\n</details>\n</section>\n<p class=\"foot\">latte 说明页 · 仅供阅读对照</p>\n</main>",
+          "hash": "a0f17bbaf57eaf9dbbbcc9b746e818badabe0a01d4bc29d4458ea18db0db2369",
+          "seo": {
+            "title": "latte 饮品说明与订购指引",
+            "keywords": "latte,拿铁,咖啡说明,订阅,冲煮指引",
+            "description": "latte 以说明书式的口吻整理品牌介绍、冲煮步骤、订阅档位与常见问题，便于你按条目核对信息。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "8568",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "czccr.cn",
+    "host": "p-c63f113ffe.czccr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "1087e2674fdc976546b31cd4a9f4bbf405a292940a4361073ca3fa451e281640",
+    "sitemap.xml": "697a61637683334be4642336dcd392a55ad45cdd41db9eff6e08dfed03c5eccf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0dddca1d04c4a264fefec5421fe7c39e732334e9cf0c8fa1dd0e08f43a1ac95f",
+    "robots.txt": "6c2ca7154f3d4eb884ecf327210274a6ec3b112c0932fba2bbb1d52712f15341",
+    "460281db9a9b557ceb83af571fffc693.txt": "8b82bf7f14e9f3bd11e0af321d21d28feec823630ef934eb96a848b29e4c6573"
+  },
+  "revision": "b59634ee1d3ad51f55a19c858c5c328a56d032aaebb80af3076be5fde32b7c0e"
+}
